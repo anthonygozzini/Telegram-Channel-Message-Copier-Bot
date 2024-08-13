@@ -1,8 +1,10 @@
+
+### SCRIPT:
+```python
 from telegram import Update, error as telegram_error
 from telegram.ext import MessageHandler, ApplicationBuilder, filters, ContextTypes
 import logging
 import os
-import json
 from dotenv import load_dotenv
 
 # Logging Setup
@@ -13,8 +15,8 @@ logger = logging.getLogger(__name__)
 
 # Load Environment Variables
 load_dotenv()
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")  # Updated for clarity
-LINK = os.getenv("AUTO_MESSAGE_LINK")    # Updated for clarity
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+LINK = os.getenv("AUTO_MESSAGE_LINK")
 
 # Parse the CHANNELS string
 channels_str = os.getenv("CHANNELS")
