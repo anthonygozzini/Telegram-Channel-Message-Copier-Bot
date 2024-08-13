@@ -1,0 +1,3 @@
+TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+AUTO_MESSAGE_LINK = https://your-link-here.com
+CHANNELS=channel_1_name:-1000000000001,channel_2_name:-1000000000002,channel_3_name:-1000000000003,channel_4_name:-1000000000004,source_channel_main:-1000000000005,channel_5_name:-1000000000006
