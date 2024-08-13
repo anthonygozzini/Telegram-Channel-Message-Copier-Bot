@@ -26,7 +26,7 @@ This bot is built using the `python-telegram-bot` library and is intended to be 
 Clone the Repository:
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/anthonygozzini/Telegram-Channel-Message-Copier-Bot.git
 cd your-repo
 ```
 
