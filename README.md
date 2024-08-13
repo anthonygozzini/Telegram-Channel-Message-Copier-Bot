@@ -1,4 +1,3 @@
-
 # Telegram Channel Message Copier and Auto-Messenger Bot
 
 ## Overview
@@ -27,7 +26,7 @@ Clone the Repository:
 
 ```sh
 git clone https://github.com/anthonygozzini/Telegram-Channel-Message-Copier-Bot.git
-cd your-repo
+cd Telegram-Channel-Message-Copier-Bot
 ```
 
 Install Dependencies:
@@ -55,7 +54,7 @@ CHANNELS=channel_name_1:channel_id_1,channel_name_2:channel_id_2,...
 To start the bot, simply run:
 
 ```sh
-python your_script.py
+python Telegram-Channel-Message-Copier-Bot.py
 ```
 
 The bot will start listening for messages and auto-send messages at the specified intervals.
