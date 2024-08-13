@@ -66,4 +66,4 @@ The bot uses Python's logging module to log important events and errors. Logs ar
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0.
+This project is licensed under the MIT License.
