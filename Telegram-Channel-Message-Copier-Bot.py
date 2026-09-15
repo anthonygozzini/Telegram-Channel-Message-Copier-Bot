@@ -1,6 +1,3 @@
-
-### SCRIPT:
-```python
 from telegram import Update, error as telegram_error
 from telegram.ext import MessageHandler, ApplicationBuilder, filters, ContextTypes
 import logging
